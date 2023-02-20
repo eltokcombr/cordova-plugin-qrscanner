@@ -86,7 +86,7 @@
   ],
   "license": "MIT",
   "main": "dist/cordova-plugin-qrscanner-lib.min.js",
-  "name": "cordova-plugin-qrscanner",
+  "name": "@eltok/cordova-plugin-qrscanner",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bitpay/cordova-plugin-qrscanner.git"
